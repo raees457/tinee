@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\boot-starp\\BS"
+		},
+		{
+			"path": "..\\..\\css-js\\css"
+		},
+		{
+			"path": "..\\..\\css-js\\js"
+		},
+		{
+			"path": "..\\..\\css-js\\TinDog-Start-master"
+		},
+		{
+			"path": "..\\images"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
